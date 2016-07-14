@@ -1,1 +1,1 @@
-This is my sample text file to learn git once and fo rall.
+This is my sample text file to learn git once and for all.
